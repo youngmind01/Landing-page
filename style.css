@@ -102,6 +102,7 @@ li a:active{
 .hero-content .row .text {
   margin-top: 25px;
   font-family:'Times New Roman', Times, serif;
+  text-align: left;
 }
 
 .hero-content .row .product-image{
